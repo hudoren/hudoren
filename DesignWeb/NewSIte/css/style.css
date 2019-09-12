@@ -1,7 +1,7 @@
 .bg{
     background-image: url("../img/20634.jpg");
     background-size: cover;
-    height: 1300px;
+    height: 1260px;
 }
 
 .hr{
@@ -13,9 +13,14 @@
 }
 
 p{
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .rouge{
     color: red;
+}
+
+.bg2{
+    background-color: #28a745;
+    height: 400px;
 }
