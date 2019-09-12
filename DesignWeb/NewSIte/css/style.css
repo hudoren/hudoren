@@ -1,0 +1,13 @@
+.bg{
+    background-image: url("../img/20634.jpg");
+    background-size: cover;
+    height: 1300px;
+}
+
+.hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f05f40;
+}
