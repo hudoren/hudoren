@@ -11,3 +11,11 @@
     border-width: 3px;
     border-color: #f05f40;
 }
+
+p{
+    font-size: 14px;
+}
+
+.rouge{
+    color: red;
+}
