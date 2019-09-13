@@ -28,3 +28,8 @@ p{
 .hide{
     display: none;
 }
+
+.imgM{
+    height: 500px;
+    width: 1000px;
+}
