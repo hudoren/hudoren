@@ -45,12 +45,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Skyward Sword.html">
+    <configuration name="Skyward Sword.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NewSIte/Skyward Sword.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NewSIte/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Skyward Sword.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -74,6 +78,7 @@
       <workItem from="1568392226845" duration="105000" />
       <workItem from="1568392644817" duration="2015000" />
       <workItem from="1568396070578" duration="5368000" />
+      <workItem from="1568408495575" duration="1190000" />
     </task>
     <servers />
   </component>
