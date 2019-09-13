@@ -4,6 +4,13 @@
     height: 1260px;
 }
 
+.bgSS{
+    background-image: url("../img/SSWP.jpg");
+    background-size: cover;
+    height: 1080px;
+
+}
+
 .hr{
     margin-bottom:30px;
     margin-top:30px;
@@ -36,4 +43,9 @@ p{
 
 .modal{
      max-width: 750px !important;
+}
+
+.pTitre{
+    font-size: 80px;
+    color: #533f03;
 }
