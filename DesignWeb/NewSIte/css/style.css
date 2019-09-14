@@ -2,6 +2,7 @@
     background-image: url("../img/20634.jpg");
     background-size: cover;
     height: 800px;
+
 }
 
 .bgSS{
@@ -22,7 +23,7 @@
 }
 
 .syp{
-    color: white;
+    color: black;
     font-weight: bolder;
     font-size: 20px;
     font-style: italic;
@@ -65,5 +66,10 @@ p{
 .pTitre{
     font-size: 80px;
     color: #533f03;
+}
+
+.contrast{
+    opacity: 1;
+    height: fit-content;
 }
 
