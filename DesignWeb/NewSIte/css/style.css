@@ -1,7 +1,7 @@
 .bg{
     background-image: url("../img/20634.jpg");
     background-size: cover;
-    height: 1260px;
+    height: 900px;
 }
 
 .bgSS{
@@ -9,6 +9,12 @@
     background-size: cover;
     height: 1080px;
 
+}
+
+.Gt{
+    font-size: 80px;
+    font-style: italic;
+    color: goldenrod;
 }
 
 .hover{
