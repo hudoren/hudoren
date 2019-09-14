@@ -73,3 +73,11 @@ p{
     height: fit-content;
 }
 
+.str{
+    background-color: lightcyan;
+}
+
+.pad{
+    padding: 0;
+}
+
