@@ -34,6 +34,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\Documents\GitHub\hudoren\DesignWeb\NewSIte\img\skyward sword" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -83,7 +88,7 @@
       <workItem from="1568421893896" duration="2411000" />
       <workItem from="1568499426739" duration="166000" />
       <workItem from="1568507553672" duration="765000" />
-      <workItem from="1568661633224" duration="2612000" />
+      <workItem from="1568661633224" duration="5191000" />
     </task>
     <servers />
   </component>

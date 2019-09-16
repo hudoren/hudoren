@@ -6,7 +6,7 @@
 }
 
 .bgSS{
-    background-image: url("../img/SSWP.jpg");
+    background-image: url("../img/skyward sword/SSWP.jpg");
     background-size: cover;
     height: 1080px;
 
@@ -50,6 +50,11 @@ p{
     height: 400px;
 }
 
+.bgg{
+    background-color: lightblue;
+    height: 50px;
+}
+
 .hide{
     display: none;
 }
@@ -79,5 +84,9 @@ p{
 
 .pad{
     padding: 0;
+}
+
+#Média{
+    font-style: italic;
 }
 
