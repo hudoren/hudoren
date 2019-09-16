@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/JeMePresente" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -46,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Skyward Sword.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Skyward Sword.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NewSIte/Skyward Sword.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -55,8 +55,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Skyward Sword.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Skyward Sword.html" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +80,10 @@
       <workItem from="1568392644817" duration="2015000" />
       <workItem from="1568396070578" duration="5368000" />
       <workItem from="1568408495575" duration="1190000" />
-      <workItem from="1568421893896" duration="2389000" />
+      <workItem from="1568421893896" duration="2411000" />
+      <workItem from="1568499426739" duration="166000" />
+      <workItem from="1568507553672" duration="765000" />
+      <workItem from="1568661633224" duration="246000" />
     </task>
     <servers />
   </component>
