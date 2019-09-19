@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/HelloBootStrap" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -45,6 +45,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RéseauSociaux/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568902624972</updated>
       <workItem from="1568902626132" duration="131000" />
-      <workItem from="1568902895260" duration="3024000" />
+      <workItem from="1568902895260" duration="5761000" />
     </task>
     <servers />
   </component>
