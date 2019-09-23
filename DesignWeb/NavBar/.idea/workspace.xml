@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eafd907-a723-4cad-8f1f-b37d1daa8dc0" name="Default Changelist" comment="" />
+    <list default="true" id="c44078cd-5d68-4076-ad1e-391d0d411f15" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,20 +16,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1R3jMRED0PRYWPJ4wNeyLpWvJHX" />
+  <component name="ProjectId" id="1RFeaicIcrt8nM6keiuFvvCLJvx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -45,32 +45,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RéseauSociaux/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8eafd907-a723-4cad-8f1f-b37d1daa8dc0" name="Default Changelist" comment="" />
-      <created>1568902624972</created>
+      <changelist id="c44078cd-5d68-4076-ad1e-391d0d411f15" name="Default Changelist" comment="" />
+      <created>1569267550251</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568902624972</updated>
-      <workItem from="1568902626132" duration="131000" />
-      <workItem from="1568902895260" duration="5971000" />
-      <workItem from="1568914807615" duration="610000" />
-      <workItem from="1568941858497" duration="673000" />
-      <workItem from="1569266364903" duration="1033000" />
-      <workItem from="1569267626010" duration="364000" />
+      <updated>1569267550251</updated>
+      <workItem from="1569267551377" duration="3479000" />
     </task>
     <servers />
   </component>
@@ -82,18 +67,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
   </component>
 </project>
