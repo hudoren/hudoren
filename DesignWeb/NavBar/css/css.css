@@ -6,6 +6,10 @@
     max-height: 1080px;
 }
 
+.ImgMi{
+    min-height: 300px;
+}
+
 .navbar {
     background-color: #c99926;
 }
