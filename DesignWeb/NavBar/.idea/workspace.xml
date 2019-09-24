@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/HelloBootStrap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -58,7 +58,7 @@
       <updated>1569267550251</updated>
       <workItem from="1569267551377" duration="4886000" />
       <workItem from="1569284631913" duration="1581000" />
-      <workItem from="1569326969892" duration="6068000" />
+      <workItem from="1569326969892" duration="6150000" />
     </task>
     <servers />
   </component>
