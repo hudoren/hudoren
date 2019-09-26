@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44078cd-5d68-4076-ad1e-391d0d411f15" name="Default Changelist" comment="" />
+    <list default="true" id="228124d7-8705-4c0c-9062-1f247799f36c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,23 +16,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RFeaicIcrt8nM6keiuFvvCLJvx" />
+  <component name="ProjectId" id="1RNW0HFCrcwjQ0Xh4E8bjzU2RlP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NavBar" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\Documents\GitHub\hudoren\DesignWeb\Modal\Js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,23 +49,27 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modal/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c44078cd-5d68-4076-ad1e-391d0d411f15" name="Default Changelist" comment="" />
-      <created>1569267550251</created>
+      <changelist id="228124d7-8705-4c0c-9062-1f247799f36c" name="Default Changelist" comment="" />
+      <created>1569507808997</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569267550251</updated>
-      <workItem from="1569267551377" duration="4886000" />
-      <workItem from="1569284631913" duration="1581000" />
-      <workItem from="1569326969892" duration="6645000" />
-      <workItem from="1569333943344" duration="152000" />
-      <workItem from="1569347640181" duration="59000" />
-      <workItem from="1569506396399" duration="1240000" />
-      <workItem from="1569507978291" duration="5000" />
+      <updated>1569507808997</updated>
+      <workItem from="1569507810092" duration="1436000" />
     </task>
     <servers />
   </component>
@@ -74,9 +81,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
