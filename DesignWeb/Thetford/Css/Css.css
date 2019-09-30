@@ -68,4 +68,13 @@ i{
     .parralax{
         background-image: url("../Img/bgresp.jpg");
     }
+    .zone2{
+        display: none;
+    }
+    .zone3{
+        text-align: center;
+    }
+    .zone5{
+        display: none;
+    }
 }
