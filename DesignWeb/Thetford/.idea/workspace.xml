@@ -45,12 +45,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thetford/Index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thetford/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -67,7 +67,7 @@
       <workItem from="1569510906748" duration="2775000" />
       <workItem from="1569630764801" duration="2999000" />
       <workItem from="1569862766535" duration="6000" />
-      <workItem from="1569868917247" duration="5771000" />
+      <workItem from="1569868917247" duration="6035000" />
     </task>
     <servers />
   </component>
