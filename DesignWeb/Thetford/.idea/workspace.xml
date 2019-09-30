@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="228124d7-8705-4c0c-9062-1f247799f36c" name="Default Changelist" comment="" />
+    <list default="true" id="ea9532e5-7881-4100-8894-4571da771546" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RNW0HFCrcwjQ0Xh4E8bjzU2RlP" />
+  <component name="ProjectId" id="1RNcHOJmYooQFhV82SBzVCb2U2R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jonat\Documents\GitHub\hudoren\DesignWeb\Modal\Js" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,12 +45,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modal/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thetford/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -64,13 +59,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="228124d7-8705-4c0c-9062-1f247799f36c" name="Default Changelist" comment="" />
-      <created>1569507808997</created>
+      <changelist id="ea9532e5-7881-4100-8894-4571da771546" name="Default Changelist" comment="" />
+      <created>1569510905696</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569507808997</updated>
-      <workItem from="1569507810092" duration="2152000" />
-      <workItem from="1569632764058" duration="51000" />
+      <updated>1569510905696</updated>
+      <workItem from="1569510906748" duration="2775000" />
+      <workItem from="1569630764801" duration="2999000" />
+      <workItem from="1569862766535" duration="6000" />
+      <workItem from="1569868917247" duration="5771000" />
     </task>
     <servers />
   </component>

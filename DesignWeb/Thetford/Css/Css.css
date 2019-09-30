@@ -1,0 +1,64 @@
+html,body{
+    height: 100%;
+}
+
+.parralax{
+    background-image: url("../Img/514068.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgI {
+    background-color: rgba(66, 66, 66, 0.5);
+}
+
+.h-10{
+    height: 10%;
+}
+
+.parralax2{
+    background-image: url("../Img/umbrella.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li::before {
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+.parralax3{
+    background-image: url("../Img/35145164_1902222213131990_6014457186665627648_o.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg1{
+    background-color: #721c24;
+}
+
+.bg2{
+    background-color: #491217;
+}
+
+.bg3{
+    background-color: darkred;
+}
+
+i{
+    color: #c69500;
+}

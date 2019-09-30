@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -63,6 +63,8 @@
       <workItem from="1569347640181" duration="59000" />
       <workItem from="1569506396399" duration="1240000" />
       <workItem from="1569507978291" duration="5000" />
+      <workItem from="1569511061617" duration="7000" />
+      <workItem from="1569632958692" duration="43000" />
     </task>
     <servers />
   </component>
