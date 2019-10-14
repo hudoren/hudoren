@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LegendOfZelda" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -72,6 +72,7 @@
       <workItem from="1570669063580" duration="81000" />
       <workItem from="1570716678115" duration="1085000" />
       <workItem from="1570889323521" duration="26000" />
+      <workItem from="1571070596454" duration="332000" />
     </task>
     <servers />
   </component>
