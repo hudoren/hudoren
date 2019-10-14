@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -69,7 +69,12 @@
       <workItem from="1569862766535" duration="6000" />
       <workItem from="1569868917247" duration="8579000" />
       <workItem from="1569892385390" duration="2574000" />
-      <workItem from="1569931477086" duration="2834000" />
+      <workItem from="1569931477086" duration="3562000" />
+      <workItem from="1570029469604" duration="585000" />
+      <workItem from="1570113618343" duration="151000" />
+      <workItem from="1570665402150" duration="2220000" />
+      <workItem from="1570718985588" duration="1037000" />
+      <workItem from="1571068554070" duration="20000" />
     </task>
     <servers />
   </component>

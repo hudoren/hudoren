@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thetford" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -71,6 +71,7 @@
       <workItem from="1568941858497" duration="673000" />
       <workItem from="1569266364903" duration="1033000" />
       <workItem from="1569267626010" duration="364000" />
+      <workItem from="1570717149994" duration="989000" />
     </task>
     <servers />
   </component>

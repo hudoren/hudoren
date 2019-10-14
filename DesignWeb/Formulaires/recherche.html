@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Voyage</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/Css.css">
+
+</head>
+<body>
+
+<div class="container-fluid">
+<!--Présentation site-->
+    <div class="row">
+        <div class="col-md-8">
+            <img src="img/agence-de-voyage.jpg" alt="" class="img-fluid"/>
+        </div>
+        <div class="col-md-4">
+            <h3>Hudoren Voyage </h3>
+            <h4>345 rue de l'aéroport</h4>
+            <h4>Québec</h4>
+            <h4>G0A 4V0</h4>
+            <h4>(418)695-7825</h4>
+        </div>
+    </div>
+
+<!--Titre-->
+   <div class="row">
+       <div class="offset-1 col-xl-10">
+           <h1 class="text-center"> Recherche d'un voyage </h1>
+       </div>
+   </div>w
+
+<!--Formulaire client-->
+<form>
+        <div class="container-fluid">
+            <h6>Information client</h6>
+        <div class="form-row">
+            <div class="col-4">
+                <input type="text" class="form-control" placeholder="Prénom">
+            </div>
+            <div class="col-4">
+                <input type="text" class="form-control" placeholder="Nom de famille">
+            </div>
+            <div class="col-4">
+                <input type="text" class="form-control" placeholder="Adresse">
+            </div>
+        </div>
+        <div class="form-row mt-4">
+            <div class="col-4">
+                <input type="text" class="form-control" placeholder="Ville">
+            </div>
+            <div class="col-4">
+                <input type="text" class="form-control" placeholder="Code postal">
+            </div>
+            <div class="col-4">
+                <input type="text" class="form-control" placeholder="Numéro de téléphone">
+            </div>
+        </div>
+        </div>
+    </form>
+
+<!--Formulaire voyage-->
+<form>
+        <div class="container-fluid mt-4">
+            <h6>Information sur le voyage</h6>
+            <div class="form-row">
+                <div class="form-group  col-3">
+                    <label for="DestVo">Destination voyage</label>
+                    <select class="form-control" id="DestVo">
+                        <option>Mexique</option>
+                        <option>Cuba</option>
+                        <option>France</option>
+                        <option>Colombie</option>
+                        <option>Espagne</option>
+                        <option>Japon</option>
+                    </select>
+                </div>
+                <div class="form-group offset-1 col-2">
+                    <label for="DateDe">Date de départ</label>
+                    <input type="date" class="form-control" id="DateDe" placeholder="Date de départ">
+                </div>
+                <div class="form-group col-2">
+                    <label for="DateRt">Date de retour</label>
+                    <input type="date" class="form-control" id="DateRt" placeholder="Date de retour'">
+                </div>
+                <div class="form-group col-2">
+                    <label for="NbA">Adulte</label>
+                    <select  class="form-control" id="NbA">
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                    </select>
+                </div>
+                <div class="form-group col-2">
+                    <label for="NbE">Enfant</label>
+                    <select  class="form-control" id="NbE">
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row mt-4">
+
+                <div class="form-check">
+                    <h6>Mode de transport</h6>
+
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="train" value="option1">
+                    <label class="form-check-label" for="train">
+                        Train</label>
+                    <br>
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="avion" value="option2">
+                    <label class="form-check-label" for="avion">
+                        Avion
+                    </label>
+                </div>
+
+                <div class="form-check">
+                    <h6>Type de siège </h6>
+
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="Prem" value="option1">
+                    <label class="form-check-label" for="Prem">
+                       Première classe
+                    </label>
+                    <br>
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="Eco" value="option2">
+                    <label class="form-check-label" for="Eco">
+                        Classe économique
+                    </label>
+                </div>
+
+            </div>
+
+
+            <div class="form-row mt-4">
+                <h6>Commodité de l'hôtel:</h6><br>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="TC">
+                    <label class="form-check-label" for="TC">
+                        Tout compris
+                    </label>
+                </div>
+                <br>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="Pl">
+                    <label class="form-check-label" for="Pl">
+                        Sur la plage
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="Go">
+                    <label class="form-check-label" for="Go">
+                        Près d'un golf
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="Wf">
+                    <label class="form-check-label" for="Wf">
+                        Wi-fi inclus
+                    </label>
+                </div>
+            </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10954.96259767167!2d-72.79690116261062!3d46.651636664486894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1slac+des+piles!5e0!3m2!1sfr!2sca!4v1523400849480" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+    <input  type="submit" value="Recharge" />
+</form>
+
+
+
+
+
+
+</div>
+
+
+
+
+</body>
+</html>

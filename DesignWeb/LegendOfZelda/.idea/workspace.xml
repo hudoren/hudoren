@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44078cd-5d68-4076-ad1e-391d0d411f15" name="Default Changelist" comment="" />
+    <list default="true" id="5f960908-afec-459c-9c94-0f1a04cecd67" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,15 +24,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RFeaicIcrt8nM6keiuFvvCLJvx" />
+  <component name="ProjectId" id="1RzL5t7nfDqTdenrXuPCMSQS01w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LegendOfZelda" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thetford" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\Documents\GitHub\hudoren\DesignWeb\LegendOfZelda\img\Accueil" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,27 +53,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c44078cd-5d68-4076-ad1e-391d0d411f15" name="Default Changelist" comment="" />
-      <created>1569267550251</created>
+      <changelist id="5f960908-afec-459c-9c94-0f1a04cecd67" name="Default Changelist" comment="" />
+      <created>1570664797016</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569267550251</updated>
-      <workItem from="1569267551377" duration="4886000" />
-      <workItem from="1569284631913" duration="1581000" />
-      <workItem from="1569326969892" duration="6645000" />
-      <workItem from="1569333943344" duration="152000" />
-      <workItem from="1569347640181" duration="59000" />
-      <workItem from="1569506396399" duration="1240000" />
-      <workItem from="1569507978291" duration="5000" />
-      <workItem from="1569511061617" duration="7000" />
-      <workItem from="1569632958692" duration="43000" />
-      <workItem from="1570029505306" duration="552000" />
-      <workItem from="1570113476300" duration="37000" />
-      <workItem from="1570665227332" duration="71000" />
-      <workItem from="1570665365560" duration="1479000" />
-      <workItem from="1570669063580" duration="81000" />
-      <workItem from="1570716678115" duration="1085000" />
-      <workItem from="1570889323521" duration="26000" />
+      <updated>1570664797016</updated>
+      <workItem from="1570664798151" duration="3199000" />
+      <workItem from="1570716695584" duration="5067000" />
+      <workItem from="1570889350158" duration="80000" />
+      <workItem from="1571068084177" duration="1063000" />
     </task>
     <servers />
   </component>
