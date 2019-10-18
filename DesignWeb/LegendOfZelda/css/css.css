@@ -63,11 +63,11 @@ html,body{
     box-shadow: 0 10px 10px -10px #8c8c8c inset;
 }
 
-}
+
 
 @media only screen and (max-width: 480px){
     .ban{
-        background-image: url("../img/Accueil/mq1/23021-triforce-the-legend-of-zelda-1920x10dfgdfgd80-game-wallpaper.jpg");
+        background-image: url("../img/Accueil/mq2/325547.jpg");
     }
     html,body{
         font-size: 1.1rem;
