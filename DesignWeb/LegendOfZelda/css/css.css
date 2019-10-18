@@ -56,6 +56,15 @@ html,body{
     background-color: rgba(66, 66, 66, 0.5);
 }
 
+
+.hr {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8c8c inset;
+}
+
+}
+
 @media only screen and (max-width: 480px){
     .ban{
         background-image: url("../img/Accueil/mq1/23021-triforce-the-legend-of-zelda-1920x10dfgdfgd80-game-wallpaper.jpg");
