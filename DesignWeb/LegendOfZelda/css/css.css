@@ -1,6 +1,18 @@
+/*css.css */
+/* Programmé par Jonathan Larouche */
+/* Le 17 octobre 2019 */
+
+
 .ban{
     width: 100%;
     height: 100%;
+}
+
+.ban{
+    background-image: url("../img/Accueil/90182.jpg");
+    background-position: center;
+    height: 100%;
+    width: 100%;
 }
 
 .bgf{
@@ -11,8 +23,16 @@
     background-color: pink;
 }
 
+.bgG{
+    background-color: grey;
+}
+
 .bg2{
     background-color: #c99926;
+}
+
+.bgp{
+background-color: #0c5460;
 }
 
 html,body{
@@ -32,15 +52,26 @@ html,body{
 }
 
 @media only screen and (max-width: 480px){
-   .carimg1{
+    .ban{
+        background-image: url("../img/Accueil/mq1/23021-triforce-the-legend-of-zelda-1920x10dfgdfgd80-game-wallpaper.jpg");
+    }
+    body{
+        font-size: 2rem;
+    }
+}
 
-   }
-}
-}
-/* TABLETTES */
+
+
+
 @media screen and (min-width: 481px) and (max-width: 1199px) {
-    ...
+    .ban{
+        background-image: url("../img/Accueil/mq1/link legend triforce the legend of zelda 1920x1080 wallpaper_www.paperhi.com_30.jpg");
+    }
+    body{
+        font-size: 2rem;
+    }
 }
+
 
 
 .navbar {

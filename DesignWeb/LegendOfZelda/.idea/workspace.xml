@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NavBar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thetford" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -62,7 +62,10 @@
       <workItem from="1570664798151" duration="3199000" />
       <workItem from="1570716695584" duration="5067000" />
       <workItem from="1570889350158" duration="80000" />
-      <workItem from="1571068084177" duration="2978000" />
+      <workItem from="1571068084177" duration="3044000" />
+      <workItem from="1571333808752" duration="607000" />
+      <workItem from="1571335878998" duration="10726000" />
+      <workItem from="1571357178291" duration="431000" />
     </task>
     <servers />
   </component>
