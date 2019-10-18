@@ -37,6 +37,7 @@ background-color: #0c5460;
 
 html,body{
     height: 100%;
+    font-size: 15px;
 }
 
 .parralax{
@@ -55,20 +56,20 @@ html,body{
     .ban{
         background-image: url("../img/Accueil/mq1/23021-triforce-the-legend-of-zelda-1920x10dfgdfgd80-game-wallpaper.jpg");
     }
-    body{
-        font-size: 2rem;
+    html,body{
+        font-size: 1.1rem;
     }
 }
 
 
 
 
-@media screen and (min-width: 481px) and (max-width: 1199px) {
+@media screen and (min-width: 481px) and (max-width: 1024px) {
     .ban{
         background-image: url("../img/Accueil/mq1/link legend triforce the legend of zelda 1920x1080 wallpaper_www.paperhi.com_30.jpg");
     }
-    body{
-        font-size: 2rem;
+    html,body{
+        font-size: 1.5rem;
     }
 }
 
@@ -199,3 +200,4 @@ html,body{
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #f3eff7;
     background-color: #397e1f;
+}
