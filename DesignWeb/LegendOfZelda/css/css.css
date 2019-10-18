@@ -59,6 +59,9 @@ html,body{
     html,body{
         font-size: 1.1rem;
     }
+    .icn{
+        display: none;
+    }
 }
 
 
@@ -70,6 +73,9 @@ html,body{
     }
     html,body{
         font-size: 1.5rem;
+    }
+    .icn{
+        display: none;
     }
 }
 
