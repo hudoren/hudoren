@@ -47,9 +47,10 @@ $("#go").click(function() {
             $("#lettre"+ i).attr("src" , "Letters/" + letter + "/" + letter + "1.jpg");
         }
     }
+
 tab = [];
 
-    if (mot.length === 3 ){
+  if (mot.length === 3 ){
         $('.ajust').attr('class' , 'col-4');
         for (x = 3; x <= 11; x++){
             $('#lettre' + x).hide();
