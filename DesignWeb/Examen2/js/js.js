@@ -130,3 +130,9 @@ $('#rose').click(function() {
 $('#rouge').click(function() {
     $('.bg').css('background-color' , 'red');
 });
+
+$("#reload").click(function() {
+
+   location.reload();
+
+});
