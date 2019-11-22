@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Comicon</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/css.css">
+
+
+</head>
+<body>
+
+<h1>Formulaire d'inscription pour le ComiCon</h1>
+<form action="">
+    <div class="container-fluid">
+        <div class="form-row">
+            <div class="col-4">
+        <label for="Username">Nom d'usager </label>
+        <input type="text" class="form-control" id="Username" placeholder="Nom d'usager">
+                <p id="Ok" class="vert"><small>Nom d'usager valide</small></p>
+                <p id="Wrong" class="rouge"><small>Nom d'usager invalide</small></p>
+            </div>
+            <div class="col-3">
+                <label for="Pass">Mot de passe </label>
+                <input type="password" class="form-control" id="Pass" placeholder="Mot de passe">
+                <p id="Faible" class="rouge"><small>Faible</small></p>
+                <p id="Moyen" class="jaune"><small>Moyen</small></p>
+                <p id="Fort" class="vert"><small>Fort</small></p>
+
+            </div>
+            <div class="col-3">
+                <label for="VPass">Confirmer votre mot de passe </label>
+                <input type="password" class="form-control" id="VPass" placeholder="Mot de passe">
+                <p id="Diff" class="rouge"><small>Les mots de passes sont différent</small></p>
+                <p id="Same" class="vert"><small>Les mots de passes sont identiques</small></p>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+<form action="">
+    <div class="container-fluid">
+    <div class="form-row">
+        <div class="col-4">
+            <label for="Email">Adresse courriel</label>
+            <input type="text" class="form-control" id="Email" placeholder="Adresse courriel">
+            <p id="Valide" class="vert"><small>Courriel valide</small></p>
+            <p id="Invalide" class="rouge"><small>Courriel invalide</small></p>
+
+        </div>
+    </div>
+    </div>
+</form>
+
+
+<div class="container-fluid">
+<div class="form-check">
+    <h2>Choix du déguisement</h2>
+    <input class="form-check-input" type="radio" name="exampleRadios" id="SW" value="option2">
+    <label class="form-check-label" for="SW">
+        StarWars
+    </label><br>
+    <input class="form-check-input" type="radio" name="exampleRadios" id="Marvel" value="option2">
+    <label class="form-check-label" for="Marvel">
+        Marvel
+    </label><br>
+    <input class="form-check-input" type="radio" name="exampleRadios" id="DC" value="option2">
+    <label class="form-check-label" for="DC">
+        DC
+    </label><br>
+
+</div>
+</div>
+
+
+<div class="container-fluid" id="images">
+    <div class="row">
+        <div class="col-xl-4">
+            <img src="img/1dcff7f4e1613d9e071a99ef8725402a.jpg" alt="" id="Yoda" class="img-fluid"/>
+        </div>
+        <div class="col-xl-4">
+            <img src="img/iron man.jpg" alt="" id="Ironman" class="img-fluid"/>
+        </div>
+        <div class="col-xl-4">
+            <img src="img/thumb-1920-72397.jpg" alt="" id="Batman" class="img-fluid"/>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid" id="StarWars">
+    <div class="form-check">
+        <h2>Choix du personnage</h2>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Yoda2" value="option2">
+        <label class="form-check-label" for="Yoda2">
+            Yoda
+        </label><br>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Obiwan" value="option2">
+        <label class="form-check-label" for="Obiwan">
+            ObiWan
+        </label><br>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Darthvader" value="option2">
+        <label class="form-check-label" for="Darthvader">
+            Darth Vader
+        </label><br>
+
+    </div>
+</div>
+
+<div class="container-fluid" id="Marvel2">
+    <div class="form-check">
+        <h2>Choix du personnages</h2>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Spiderman" value="option2">
+        <label class="form-check-label" for="Spiderman">
+            Spiderman
+        </label><br>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Thor" value="option2">
+        <label class="form-check-label" for="Thor">
+            Thor
+        </label><br>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Hulk" value="option2">
+        <label class="form-check-label" for="Hulk">
+            Hulk
+        </label><br>
+
+    </div>
+</div>
+
+<div class="container-fluid" id="DCok">
+    <div class="form-check">
+        <h2>Choix du déguisement</h2>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Batman2" value="option2">
+        <label class="form-check-label" for="Batman2">
+            Batman
+        </label><br>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Superman" value="option2">
+        <label class="form-check-label" for="Superman">
+            Superman
+        </label><br>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="Flash" value="option2">
+        <label class="form-check-label" for="Flash">
+           Flash
+        </label><br>
+
+    </div>
+</div>
+
+<div class="container-fluid" id="personnages">
+    <div class="row">
+        <div class="col-xl-6">
+            <img src="" alt="" id="Images1" class="img-fluid"/>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/ComiCon.js"></script>
+</body>
+</html>

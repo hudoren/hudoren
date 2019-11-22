@@ -1,0 +1,20 @@
+/*css.css */
+/* Programmé par Jonathan Larouche */
+/* Le 21 novembre 2019 */
+
+
+
+.rouge{
+    color: red;
+}
+
+
+.bg {
+    background-color: white;
+}
+
+@media print{
+    .print{
+        visibility: hidden;
+    }
+}

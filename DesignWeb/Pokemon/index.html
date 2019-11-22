@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>CardGen</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/pokemon.css">
+
+
+</head>
+
+<body>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xl-4">
+            <div class="form-group">
+                <label for="Name">Card Name</label>
+                <input type="text" class="form-control" id="Name" placeholder="Card Name">
+                <label for="Pokeclass">Pokemon class</label>
+                <select class="form-control" id="Pokeclass">
+                    <option id="Fire">Fire</option>
+                    <option>Dark</option>
+                    <option>Fighting</option>
+                    <option>Grass</option>
+                    <option>Psychic</option>
+                    <option>Steel</option>
+                    <option>Water</option>
+                    <option>Lightning</option>
+                </select>
+
+                <button id="Generate">Generate</button>
+            </div>
+
+        </div>
+        <div class="col-xl-6 bg" id="Card">
+            <h4 class="nom" id="Cardname"></h4>
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/pokemon.js"></script>
+</body>
+</html>
