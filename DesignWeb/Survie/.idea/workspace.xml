@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aa3044b-7d45-4ed4-b7cc-3c4e66aa9f01" name="Default Changelist" comment="" />
+    <list default="true" id="a1c06e73-3339-468f-8494-2bf187ccacc8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,19 +17,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1TuPDT0G74jOpzTr1neWVj4K0p4" />
+  <component name="ProjectId" id="1UYIjgTeJcjLINU7CwAzqzsqyPH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programmation1/tableau" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,18 +47,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5aa3044b-7d45-4ed4-b7cc-3c4e66aa9f01" name="Default Changelist" comment="" />
-      <created>1574306887976</created>
+      <changelist id="a1c06e73-3339-468f-8494-2bf187ccacc8" name="Default Changelist" comment="" />
+      <created>1575527238876</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574306887976</updated>
-      <workItem from="1574306889267" duration="662000" />
-      <workItem from="1574377468255" duration="5309000" />
-      <workItem from="1574385621016" duration="2227000" />
-      <workItem from="1574390859424" duration="1983000" />
-      <workItem from="1574446758264" duration="1101000" />
-      <workItem from="1574448554652" duration="23000" />
-      <workItem from="1574450327826" duration="886000" />
+      <updated>1575527238876</updated>
+      <workItem from="1575527240004" duration="779000" />
+      <workItem from="1575528989093" duration="5668000" />
+      <workItem from="1575568668718" duration="1411000" />
     </task>
     <servers />
   </component>

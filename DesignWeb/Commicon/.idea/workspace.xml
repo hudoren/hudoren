@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examen2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
@@ -64,6 +64,7 @@
       <workItem from="1573967558339" duration="1433000" />
       <workItem from="1574377545524" duration="77000" />
       <workItem from="1574377848185" duration="3090000" />
+      <workItem from="1575534681739" duration="223000" />
     </task>
     <servers />
   </component>

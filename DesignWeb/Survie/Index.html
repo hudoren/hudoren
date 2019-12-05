@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Les Survivants</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/css.css">
+
+    <link rel="icon" type="image/png" href="Img/téléchargement.png" />
+
+
+</head>
+<body>
+
+<header>
+    <!--NavBar-->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bgNav">
+        <a class="navbar-brand icn" href="Index.html"><img src="Img/téléchargement.png" alt="" height="20" width="20"/></a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"   aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <img src="img/329571-200.png" alt="" height="30" width="30"/>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active"><a class="nav-link" href="Index.html">Accueil<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item "><a class="nav-link" href="bd1.html">Badge Carcajou<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item "><a class="nav-link" href="bd2.html">Badge Renard<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item "><a class="nav-link" href="bd3.html">Badge Orignal<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item "><a class="nav-link" href="bd4.html">Badge Ours<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item "><a class="nav-link" href="bdS.html">Badge Les Survivants<span class="sr-only">(current)</span></a></li>
+
+            </ul>
+
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter-square"></i>
+            <i class="fab fa-instagram"></i>
+        </div>
+    </nav>
+
+    <div class="overlay mt-6"></div>
+
+    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="Img/stock-footage-aerial-view-of-a-mountain-creek-in-the-alps-at-summer-top-down-moving-forward-waterfall-drone-clip.mp4" type="video/mp4">
+    </video>
+
+    <div class="container-fluid h-100">
+        <div class="row h-100 text-center align-items-center">
+            <div class="col-12 text-white">
+                <h1 class="display-3">Les Survivants</h1>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--Description générale-->
+<div class="container-fluid bg1 no-gutters px-0">
+    <div class="row no-gutters">
+        <div class="col-xl-4 col-4">
+        <img src="Img/Les Survivants Logo (1).png" alt="" class="img-fluid"/>
+        </div>
+        <div class="col-xl-8 col-8">
+            <div class="text-center align-items-center">
+            <h1>Les Survivants</h1>
+            <h4>Écoles de techniques de survies</h4>
+            <p>Les survivants est une école pour vous apprendre des techniques de survie basique et avancé en plus de cours de spécialisation</p>
+            <br>
+            <p>la ligne conductrice de notre école fonctionne avec un principe de badge. Pour pouvoir obternir la certification <strong>"Les survivants"</strong> vous devrez acquérir
+                tout les badges c'est-à-dire :</p>
+            </div>
+            <ul>
+                <li>Badge Carcajou</li>
+                <li>Badge Renard</li>
+                <li>Badge Orignal</li>
+                <li>Badge Ours</li>
+                <li>Badge Les Survivants</li>
+            </ul>
+            <p>Chacun des niveau vous offres :</p>
+            <ul>
+                <li>Une formation théorique en classe</li>
+                <li>Un stage en forêt avec supervision</li>
+                <li>Une évaluation finale</li>
+                <p>*Seul le matérien de théorie vous est fourni</p>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<!--Description des badges-->
+<div class="container-fluid">
+    <h1 class="align-items-center text-center couleur">Les différents badges <br><small>Cliquer sur les badges pour en voir le résumer</small></h1>
+
+    <div class="row align-items-center">
+        <div class="col-xl-2 col-12">
+        <h1>Badge Carcajou</h1>
+            <img src="Img/bd005570-3e28-4bd0-9301-a21068d9bdcd_200x200.png" style="cursor: pointer" id="Carcajou" alt="" class="img-fluid mx-2"/><br>
+        </div>
+        <div class="col-xl-2 col-6">
+            <h1>Badge Renard</h1>
+            <img src="Img/Renard.png" id="Renard" style="cursor: pointer" alt="" class="img-fluid mx-2"/><br>
+        </div>
+        <div class="col-xl-2 col-6 ">
+            <h1>Badge Orignal</h1>
+            <img src="Img/Orignal.png" id="Orignal" style="cursor: pointer" alt="" class="img-fluid mx-2"/>
+        </div>
+        <div class="col-xl-2 col-6">
+            <h1>Badge Ours</h1>
+            <img src="Img/Ours.png" id="Ours" alt="" style="cursor: pointer" class="img-fluid mx-2"/>
+        </div>
+        <div class="col-xl-3 col-6">
+            <h1 class="text-center ">Badge Les Survivants</h1>
+            <img src="Img/LS.png" id="LS" style="cursor: pointer" alt="" class="img-fluid mx-2"/>
+        </div>
+
+    </div>
+</div>
+
+<!--Modals Carcajou-->
+<div class="modal" tabindex="-1" role="dialog" id="MdCarc">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Badge Carcajou</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Survole des cours</p>
+                <ul>
+                    <li>Psychologie reliée a la survie</li>
+                    <li>Vêtement, sac et accessoire</li>
+                    <li>Noed et brêlage</li>
+                    <li>Initiation a la survie</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Modals Renard-->
+<div class="modal" tabindex="-1" role="dialog" id="MdRen">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Badge Renard</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Survole des cours</p>
+                <ul>
+                    <li>Premier soins en milieu éloignée</li>
+                    <li>Piêge, trappe et cuisine</li>
+                    <li>Technique de survie intermédiaire</li>
+                    <li>Initiation à la topographie</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Modals Orignal-->
+<div class="modal" tabindex="-1" role="dialog" id="MdOri">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Badge Orignal</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Survol des cours</p>
+                <ul>
+                    <li>Écologie et nature</li>
+                    <li>Carte Boussole et gps</li>
+                    <li>Faune et flore</li>
+                    <li>Condition météorologique</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Modals Ours-->
+<div class="modal" tabindex="-1" role="dialog" id="MdOurs">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Badge Ours</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Survol des cours</p>
+                <ul>
+                    <li>Technique de survie avancée</li>
+                    <li>Gestion des ressources</li>
+                    <li>Technique de marquage</li>
+                    <li>Gestion des imprévues</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Modals LS-->
+<div class="modal" tabindex="-1" role="dialog" id="MdLS">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Badge Les Survivants</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Évaluation pour certification final</p>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/js.js"></script>
+</body>
+</html>
