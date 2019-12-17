@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RéseauSociaux" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Survie" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,6 +78,8 @@
       <workItem from="1573483274078" duration="601000" />
       <workItem from="1573499582028" duration="12000" />
       <workItem from="1574392507691" duration="89000" />
+      <workItem from="1575850514046" duration="665000" />
+      <workItem from="1575905288209" duration="27000" />
     </task>
     <servers />
   </component>

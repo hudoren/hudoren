@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewSIte" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Commicon" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,7 +54,11 @@
       <updated>1575527238876</updated>
       <workItem from="1575527240004" duration="779000" />
       <workItem from="1575528989093" duration="5668000" />
-      <workItem from="1575568668718" duration="3732000" />
+      <workItem from="1575568668718" duration="4282000" />
+      <workItem from="1575613586478" duration="325000" />
+      <workItem from="1575850165966" duration="3491000" />
+      <workItem from="1575905318407" duration="2581000" />
+      <workItem from="1576095126174" duration="34000" />
     </task>
     <servers />
   </component>
