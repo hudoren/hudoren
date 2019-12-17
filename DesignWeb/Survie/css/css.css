@@ -2,6 +2,22 @@
 /* Programmé par Jonathan Larouche */
 /* Le 12 décembre 2019 */
 
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../Img/6rZHou.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 500px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .bg1{
     background-color: lightgray;
 }
